@@ -1,0 +1,8 @@
+go 1.18
+
+use (
+	./douyin-api
+	./douyin-common
+	./douyin-grpc
+	./douyin-user
+)
